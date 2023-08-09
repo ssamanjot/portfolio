@@ -21,29 +21,29 @@ _Aug 2012 - May 2016_
 ## WORK EXPERIENCE:
 
 ### Senior Research Assistant, University at Buffalo 
-_May 2023 - Present_  
 **NLP-Driven Patient Interview Analysis Tool (Mellowing Minds Study)**
+_May 2023 - Present_  
 - Strategized and Analyzed relationships between health symptoms and stress reduction ways by applying K-means clustering with Distilled BERT model, yielded improved health for 200 patients.
 - Employed feature extraction, sentiment analysis, and topic modeling to assess treatment for 500+ patients' illness.
 - Monitored performance by conducting hypothesis testing and correlation analysis at stages, created 55% faster patient recovery.
 
 ### Data Scientist, Tatras Data Pvt Ltd
-_Feb 2020 - Jul 2022_  
 **B2B Content Intelligence Advanced Recommender Systems**
+_Feb 2020 - Jul 2022_  
 - Developed advanced hybrid recommender system using Python & ElasticSearch, resulted in 200% increase in website traffic.
 - Created data embeddings with methods such as word2vec, BERT, LDA, and Tf-Idf, and wrote algorithm to select optimized model, provided 70% more relevant personalized content.
 - Implemented scalable recommender API as a microservice enabling compatibility with multiple clients through containerization & deployment using Docker and K8, revenue exceeding $20 million for each client.
 
 ### Systems Engineer, Tata Consultancy Services
-_Jan 2017 - Jan 2020_  
 **BaNCS Swift Messages Interface**
+_Jan 2017 - Jan 2020_  
 - Built sustainable Interfaces (Position & Trade) for CitiBank & Société Générale on Java, handled load of 100k trades per day.
 - Played a key role by collaborating to develop Unix scripts with DevOps team, executing Oracle DB migration for 300+ tables.
 - Executed back-end rules with Java and RabbitMQ for secure tunnel processing of SWIFT messages and RIC & REIT securities.
 
 ### Data Science Intern, Sabudh Foundation
-_Jul 2019 - Dec 2019_  
 **Semantic-attribute Analysis from Punjabi handwritten Information reports**
+_Jul 2019 - Dec 2019_  
 - Collaborated with Punjab Police to analyze Punjabi language FIRs by putting into practice OCR Tesseract, identifying high-risk accident areas, and reducing accidents by 50%.
 - Managed Data Science team and automated process of finding cause of FIRs with NLP techniques by using Punjabi language embeddings, induced an average analyzing 100 FIR per hour.
 
