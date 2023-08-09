@@ -1,6 +1,6 @@
 # Data Scientist / Software Developer
 
-<h2 style="color:blue;"> SUMMARY:</h2>
+<h2 style="color:#00008B;"> SUMMARY:</h2>
 Self-motivated Software Development engineer (SDE) and Data Scientist with 5+ years experience building microservices, unleashing
 Python & Data Science magic. Expertise in full Software development cycle, Python, databases, microservices and Machine learning.
 
